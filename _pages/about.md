@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: #Ph.D. Student in Computer Science, University of Memphis
+subtitle: 
 nav: true
 nav_order: 1
 
@@ -10,11 +10,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
-    <p>Ph.D. Student</p>
-    <p>Department of Computer Science</p>
-    <p>University of Memphis</p>
-    <p>Memphis, TN, USA</p>
+  more_info: 
 
 selected_papers: true
 social: true
