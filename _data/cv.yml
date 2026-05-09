@@ -43,7 +43,7 @@ cv:
         end_date: 2017
 
     Publications and Manuscripts:
-      - title: "CRiC: Protocol-Scoped Counterfactual Risk Certification for Interactive Driving"
+      - title: "CRiC: Protocol Scoped Counterfactual Risk Certification for Interactive Driving"
         authors:
           - "**Md Nahidul Islam**"
           - et al.
