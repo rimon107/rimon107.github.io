@@ -1,7 +1,9 @@
 cv:
   name: Md Nahidul Islam
   email: mislam19@memphis.edu
+  phone: +1 (901) 319-6770
   location: Memphis, TN, USA
+  website: https://rimon107.github.io/
 
   social_networks:
     - network: GitHub
@@ -14,6 +16,10 @@ cv:
       username: 0009-0004-6808-4674
 
   sections:
+    Research Interests:
+      - "Autonomous driving, interactive motion planning, trajectory forecasting, trustworthy machine learning, conformal risk certification, counterfactual evaluation, model compression, knowledge distillation, and safe robotics."
+      - "Research Profile: Ph.D. researcher building scalable evaluation and certification methods for autonomous-driving decision systems, with experience in CARLA, trajectory datasets, PyTorch, and HPC/GPU experimentation."
+
     Education:
       - institution: University of Memphis
         location: Memphis, TN, USA
@@ -23,110 +29,40 @@ cv:
         start_date: 2024
         end_date: present
         score: "GPA: 3.93/4.00"
-        courses: ""
         highlights:
           - "Advisor: Dr. Myounggyu Won"
           - "M.S. earned en route, May 2026"
           - "M.S. Thesis: BucketKD: A Safety-Aware Bucket-Based Knowledge Distillation Framework for End-to-End Motion Planning"
 
-      - institution: Bangladesh University of Engineering and Technology
+      - institution: Bangladesh University of Engineering and Technology (BUET)
         location: Dhaka, Bangladesh
         url: http://www.buet.ac.bd/
         area: Computer Science and Engineering
         studyType: B.Sc.
         start_date: 2012
         end_date: 2017
-        highlights:
-          - Completed undergraduate degree in Computer Science and Engineering.
 
-    Research Experience:
-      - company: University of Memphis
-        position: Graduate Research Assistant
-        location: Memphis, TN, USA
-        start_date: 2024-01
-        end_date: present
-        summary: Researching trustworthy autonomous driving, interactive motion planning, conformal risk certification, counterfactual evaluation, and model compression for safe robotics under the supervision of Prof. Myounggyu Won.
-        highlights:
-          - Designed BucketKD, a safety-aware bucket-based knowledge-distillation framework for compressing end-to-end motion planners in autonomous driving.
-          - Developed time-to-collision-guided waypoint attention and adaptive planning-state discretization to preserve safety-relevant trajectory behavior during distillation.
-          - Investigating protocol-scoped counterfactual risk certification for interactive autonomous driving, including frozen decision protocols, calibrated upper-risk bounds, abstention-aware selection, and scene-level reliability evaluation.
-          - Built scalable experimental pipelines for autonomous-driving research using PyTorch, CARLA, trajectory datasets, JSONL artifacts, and HPC/GPU infrastructure.
-          - Co-developed an autoencoder-based stealthy-anomaly detector with a windowed variance-aware loss for vehicular and tactical communication networks, published at IEEE MILCOM 2025.
-
-      - company: Bangladesh University of Engineering and Technology
-        position: Research Assistant
-        location: Dhaka, Bangladesh
-        start_date: 2018-08
-        end_date: 2020-01
-        summary: Conducted research on Bangla speech recognition, low-resource language modeling, and grapheme-to-phoneme conversion under the supervision of Dr. Muhammad Abdullah Adnan.
-        highlights:
-          - Contributed to peer-reviewed publications at ICASSP, LREC, and NAACL.
-          - Built and evaluated sequence-to-sequence and attention-based models for Bangla automatic speech recognition and text/speech processing.
-          - Worked on the Samsung Research Bangladesh-funded Bangla Automated Speech Recognition Engine project.
-
-    Teaching Experience:
-      - company: University of Memphis, Department of Computer Science
-        position: Graduate Teaching Assistant
-        location: Memphis, TN, USA
-        start_date: 2024-01
-        end_date: present
-        summary: Assisted undergraduate computer science courses at the University of Memphis.
-        highlights:
-          - Mentored Capstone Software Project and Operating Systems courses of 50–80 students.
-          - Supported project evaluation and proctored exams.
-
-    Industry Experience:
-      - company: Bangladesh Bank, Central Bank of Bangladesh
-        position: Assistant Director, Enterprise Data Warehouse
-        location: Dhaka, Bangladesh
-        start_date: 2020-11
-        end_date: 2023-12
-        summary: Worked on enterprise-scale financial data systems, ETL pipelines, analytics platforms, and internal web applications.
-        highlights:
-          - Designed and maintained ETL pipelines and internal analytics platforms for enterprise-scale regulatory financial data.
-          - Developed containerized web applications and proof-of-concept ML tools using Django, React, Oracle, Docker, and CI/CD workflows.
-
-      - company: Binate Solutions Ltd.
-        position: Software Engineer, AI Solutions Team
-        location: Dhaka, Bangladesh
-        start_date: 2020-02
-        end_date: 2020-10
-        summary: Developed ML-backed software services, REST APIs, SaaS applications, and conversational AI systems.
-        highlights:
-          - Developed REST APIs, ML-backed services, and SaaS web applications using Django, TensorFlow, RASA, and cloud deployment tools.
-          - Built an automated chatbot using RASA for FAQs, questionnaires, project booking, and sales appointment scheduling.
-
-      - company: ACI Ltd.
-        position: Information Analyst, MIS Department
-        location: Dhaka, Bangladesh
-        start_date: 2017-02
-        end_date: 2018-03
-        summary: Built reporting dashboards and applied machine-learning methods to business and operations datasets.
-        highlights:
-          - Developed internal analytics, reporting, sentiment analysis, fraud detection, and enterprise software systems.
-          - Worked with Django, MSSQL, TensorFlow, NLP APIs, and business intelligence tools.
-
-    Publications:
+    Publications and Manuscripts:
       - title: "CRiC: Protocol-Scoped Counterfactual Risk Certification for Interactive Driving"
         authors:
-          - Md Nahidul Islam
+          - "**Md Nahidul Islam**"
           - et al.
-        publisher: Submitted to NeurIPS 2026
+        publisher: Submitted to NeurIPS 2026 (under review)
         releaseDate: 2026
         summary: Submitted manuscript on protocol-scoped counterfactual risk certification for interactive autonomous driving.
 
       - title: "BucketKD: A Safety-Aware Bucket-Based Knowledge Distillation Framework for End-to-End Motion Planning"
         authors:
-          - Md Nahidul Islam
+          - "**Md Nahidul Islam**"
           - et al.
-        publisher: Submitted to IROS 2026
+        publisher: Submitted to IROS 2026 (under review)
         releaseDate: 2026
         summary: Submitted manuscript on safety-aware bucket-based knowledge distillation for end-to-end autonomous-driving motion planners.
 
       - title: "BucketKD: A Safety-Aware Bucket-Based Knowledge Distillation Framework for End-to-End Motion Planning"
         authors:
-          - Md Nahidul Islam
-        publisher: M.S. thesis, University of Memphis
+          - "**Md Nahidul Islam**"
+        publisher: "M.S. thesis, Dept. of Computer Science, University of Memphis, Memphis, TN, USA"
         releaseDate: 2026
         url: https://digitalcommons.memphis.edu/etd/3931
         summary: M.S. thesis on compressing end-to-end autonomous-driving planners while preserving safety-relevant behavior.
@@ -134,25 +70,25 @@ cv:
       - title: "Detecting Stealthy Anomalies with Autoencoders Using Windowed Variance-Aware Loss Functions"
         authors:
           - L. Hwang
-          - Md Nahidul Islam
+          - "**Md Nahidul Islam**"
           - M. H. Ali
           - D. Dasgupta
           - M. Won
-        publisher: IEEE Military Communications Conference (MILCOM)
+        publisher: "Proc. IEEE Military Communications Conference (MILCOM), pp. 981–986"
         releaseDate: 2025
         url: https://doi.org/10.1109/MILCOM64451.2025.11310014
-        summary: Autoencoder-based stealthy-anomaly detection using a windowed variance-aware loss function.
+        summary: Autoencoder-based stealthy-anomaly detection using a windowed variance-aware loss function for vehicular and tactical communication networks.
 
       - title: "Bangla Voice Command Recognition in End-to-End System Using Topic Modeling Based Contextual Rescoring"
         authors:
           - Nafis Sadeq
           - Shafayat Ahmed
           - Sudipta Saha Shubha
-          - Md Nahidul Islam
+          - "**Md Nahidul Islam**"
           - Muhammad Abdullah Adnan
-        publisher: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+        publisher: "Proc. IEEE Int. Conf. Acoustics, Speech and Signal Processing (ICASSP), pp. 7894–7898"
         releaseDate: 2020
-        url: "https://ieeexplore.ieee.org/document/9053970"
+        url: https://ieeexplore.ieee.org/document/9053970
         summary: End-to-end Bangla voice command recognition with topic-modeling-based contextual rescoring.
 
       - title: "Preparation of Bangla Speech Corpus from Publicly Available Audio & Text"
@@ -160,98 +96,88 @@ cv:
           - Shafayat Ahmed
           - Nafis Sadeq
           - Sudipta Saha Shubha
-          - Md Nahidul Islam
+          - "**Md Nahidul Islam**"
           - Muhammad Abdullah Adnan
-        publisher: International Conference on Language Resources and Evaluation (LREC)
+        publisher: "Proc. 12th Int. Conf. Language Resources and Evaluation (LREC), pp. 6586–6592"
         releaseDate: 2020
-        url: "https://aclanthology.org/2020.lrec-1.811/"
-        summary: Preparation of Bangla speech corpus resources from publicly available audio and text.
+        url: https://aclanthology.org/2020.lrec-1.811/
+        summary: Preparation of a Bangla speech corpus from publicly available audio and text.
 
       - title: "Customizing Grapheme-to-Phoneme System for Non-Trivial Transcription Problems in Bangla Language"
         authors:
           - Sudipta Saha Shubha
           - Nafis Sadeq
           - Shafayat Ahmed
-          - Md Nahidul Islam
+          - "**Md Nahidul Islam**"
           - Muhammad Abdullah Adnan
           - Md. Yasin Ali Khan
           - Mohammad Zuberul Islam
-        publisher: NAACL-HLT
+        publisher: "Proc. NAACL-HLT, pp. 3192–3201"
         releaseDate: 2019
-        url: "https://aclanthology.org/N19-1322/"
-        summary: Grapheme-to-phoneme modeling for non-trivial Bangla transcription problems. Awarded ACL Travel Grant.
+        url: https://aclanthology.org/N19-1322/
+        summary: Grapheme-to-phoneme modeling for non-trivial Bangla transcription problems. ACL Travel Grant Award.
 
-    Awards:
-      - title: ACL Travel Grant
-        authors:
-          - Association for Computational Linguistics
-        date: 2019
-        awarder: Association for Computational Linguistics
-        summary: Travel grant awarded for NAACL-HLT 2019 publication.
-
-      - title: NSF Travel Support
-        authors:
-          - National Science Foundation
-        date: 2026-05
-        awarder: National Science Foundation
-        summary: Received NSF travel support to attend the FLEET Industry Technology Forum and Industry Advisory Board Meeting at Dallara U.S. Headquarters in Speedway, Indiana.
-
-    Projects:
-      - name: CRiC
-        summary: Protocol-scoped counterfactual risk certification framework for interactive autonomous driving.
+    Research Experience:
+      - company: University of Memphis
+        position: Graduate Research Assistant
+        location: Memphis, TN, USA
+        start_date: 2024-01
+        end_date: present
+        summary: "Researching trustworthy autonomous driving, interactive motion planning, conformal risk certification, counterfactual evaluation, and model compression for safe robotics under the supervision of Prof. Myounggyu Won."
         highlights:
-          - Developed a protocol-scoped certification framework that evaluates a frozen autonomous-driving decision protocol rather than only a predictor.
-          - Designed calibrated upper-risk-bound selection and abstention logic for safety-aware candidate choice under uncertainty.
-          - Built streaming-friendly evaluation artifacts and reliability analyses for large-scale scene/candidate rollouts.
+          - "Designed BucketKD, a safety-aware bucket-based knowledge-distillation framework for compressing end-to-end motion planners in autonomous driving; evaluated compact student planners in CARLA high-complexity driving scenarios."
+          - "Developed time-to-collision (TTC)-guided waypoint attention and adaptive planning-state discretization to preserve safety-relevant trajectory behavior during distillation."
+          - "Investigating protocol-scoped counterfactual risk certification for interactive autonomous driving, including frozen decision protocols, calibrated upper-risk bounds, abstention-aware selection, and scene-level reliability evaluation."
+          - "Built scalable experimental pipelines for autonomous-driving research using PyTorch, CARLA, Waymo Open Motion Dataset (WOMD), Argoverse 2 (AV2), highD, inD, rounD, JSONL artifacts, and HPC/GPU infrastructure."
+          - "Co-developed an autoencoder-based stealthy-anomaly detector with a windowed variance-aware loss for vehicular and tactical communication networks, published at IEEE MILCOM 2025."
+
+      - company: Bangladesh University of Engineering and Technology (BUET)
+        position: Research Assistant
+        location: Dhaka, Bangladesh
+        start_date: 2018-08
+        end_date: 2020-01
+        summary: "Conducted research on Bangla speech recognition, low-resource language modeling, and grapheme-to-phoneme conversion under the supervision of Dr. Muhammad Abdullah Adnan."
+        highlights:
+          - "Conducted research on Bangla speech recognition, low-resource language modeling, and grapheme-to-phoneme conversion."
+          - "Contributed to peer-reviewed publications at ICASSP, LREC, and NAACL."
+          - "Built and evaluated sequence-to-sequence and attention-based models for Bangla ASR and text/speech processing."
+          - "Worked on the Samsung Research Bangladesh-funded Bangla Automated Speech Recognition Engine project."
+
+    Selected Projects:
+      - name: "CRiC: Counterfactual Risk Certification for Interactive Driving"
+        summary: "Ph.D. research project | PyTorch, trajectory forecasting/planning, conformal calibration, HPC."
+        highlights:
+          - "Developed a protocol-scoped certification framework for interactive autonomous driving that evaluates a frozen decision protocol rather than only a predictor."
+          - "Designed calibrated upper-risk-bound selection and abstention logic for safety-aware candidate choice under uncertainty."
+          - "Built streaming-friendly evaluation artifacts and reliability analyses for large-scale scene/candidate rollouts."
         start_date: 2026
         end_date: present
 
-      - name: BucketKD
-        summary: Safety-aware bucket-based knowledge distillation framework for compressing end-to-end autonomous-driving motion planners.
+      - name: "BucketKD: Safety-Aware End-to-End Motion Planner Compression"
+        summary: "M.S. Thesis, University of Memphis | PyTorch, CARLA Simulator."
         highlights:
-          - Developed bucket-based knowledge distillation for end-to-end motion-planner compression.
-          - Designed time-to-collision-guided waypoint attention and adaptive bucket construction.
-          - Evaluated compact student planners in CARLA high-complexity driving scenarios.
+          - "Developed a bucket-based knowledge-distillation framework for compressing end-to-end autonomous-driving planners while preserving safety-relevant planning behavior."
+          - "Designed TTC-based waypoint attention and adaptive bucket construction to improve safety-aware distillation."
+          - "Evaluated compact student planners in CARLA high-complexity driving scenarios."
         start_date: 2024-01
         end_date: 2026-02
 
-      - name: Autonomous R/C Cars Cybersecurity Summer Camp
-        summary: Hands-on autonomous driving and cybersecurity education program using Donkey Car and Raspberry Pi platforms.
+      - name: "Autonomous R/C Cars – Cybersecurity Summer Camp"
+        summary: "Donkey Car, Raspberry Pi, Python, TensorFlow, OpenCV."
         highlights:
-          - Built an end-to-end self-driving pipeline including data collection, CNN training, and on-vehicle deployment.
-          - Designed demonstrations of safety-critical attack surfaces in connected and autonomous systems.
-          - Taught high-school students Python, machine learning, robotics, and cybersecurity concepts.
+          - "Built an end-to-end self-driving pipeline -- data collection, CNN training, on-vehicle deployment -- on Raspberry Pi-based R/C platforms for a five-day high-school camp (associated with SIGCSE 2024)."
+          - "Designed adversarial demonstrations including MITM, password cracking, and buffer-overflow exploits to teach safety-critical attack surfaces."
         start_date: 2024
         end_date: 2024
 
       - name: Data Collection and Validation Portal
-        summary: Enterprise web platform for regulatory data ingestion, validation, reporting, and analytics.
+        summary: "Bangladesh Bank | Django, React, Redux, Oracle, Docker."
         highlights:
-          - Engineered CSV upload, schema validation, role-based access, and reporting workflows.
-          - Built dashboard and analytics features for regulatory data operations.
-          - Used Django, React, Redux, Oracle, and Docker.
+          - "Engineered a containerized web platform for CSV ingestion, schema validation, role-based access, and reporting; deployed across regulatory data-collection workflows."
         start_date: 2020
         end_date: 2024
 
-      - name: Bangla Automated Speech Recognition Engine
-        summary: Samsung Research Bangladesh-funded project on low-resource Bangla speech recognition, voice command recognition, and speech/text resource development.
-        highlights:
-          - Contributed to end-to-end Bangla voice command recognition using contextual rescoring.
-          - Helped prepare Bangla speech corpus resources from publicly available audio and text.
-          - Worked on grapheme-to-phoneme modeling for non-trivial Bangla transcription problems.
-          - Contributed to publications at ICASSP, LREC, and NAACL.
-        start_date: 2018
-        end_date: 2020
-
-      - name: Earlier Software and Machine Learning Projects
-        summary: Selected pre-Ph.D. software, data, and machine-learning systems across enterprise analytics, fintech, NLP, web platforms, and backend services.
-        highlights:
-          - Built systems including automated chatbots, warehouse management, sentiment analysis, fraud detection, web crawling, inventory management, e-commerce, and ETL workflows.
-          - Used technologies including Django, TensorFlow, RASA, React, MSSQL, Oracle, Docker, Scrapy, ASP.NET, C#, Java, and Spring Framework.
-        start_date: 2016
-        end_date: 2020
-
-    Skills:
+    Technical Skills:
       - name: Programming
         level: Advanced
         icon: fa-solid fa-code
@@ -265,7 +191,7 @@ cv:
       - name: Autonomous Driving and Robotics
         level: Advanced
         icon: fa-solid fa-car
-        keywords: "CARLA, Donkey Car, trajectory forecasting, motion planning, TTC-based safety metrics, Waymo Open Motion Dataset, Argoverse 2"
+        keywords: "CARLA, Donkey Car, trajectory forecasting, motion planning, TTC-based safety metrics, Waymo Open Motion Dataset (WOMD), Argoverse 2 (AV2)"
 
       - name: Systems and Infrastructure
         level: Advanced
@@ -281,6 +207,52 @@ cv:
         level: Advanced
         icon: fa-solid fa-database
         keywords: "Oracle, PostgreSQL, MySQL, MS SQL Server"
+
+    Industry Experience:
+      - company: "Bangladesh Bank (Central Bank of Bangladesh)"
+        position: "Assistant Director, Enterprise Data Warehouse"
+        location: Dhaka, Bangladesh
+        start_date: 2020-11
+        end_date: 2023-12
+        highlights:
+          - "Designed and maintained ETL pipelines and internal analytics platforms for enterprise-scale regulatory financial data."
+          - "Developed containerized web applications and proof-of-concept ML tools using Django, React, Oracle, Docker, and CI/CD workflows."
+
+      - company: Binate Solutions Ltd.
+        position: "Software Engineer, AI Solutions Team"
+        location: Dhaka, Bangladesh
+        start_date: 2020-02
+        end_date: 2020-10
+        highlights:
+          - "Developed REST APIs, ML-backed services, and SaaS web applications using Django, TensorFlow/Rasa, and cloud deployment tools."
+
+      - company: ACI Ltd.
+        position: "Information Analyst, MIS Department"
+        location: Dhaka, Bangladesh
+        start_date: 2017-02
+        end_date: 2018-03
+        highlights:
+          - "Built reporting dashboards and applied machine-learning methods to business and operations datasets."
+
+    Teaching Experience:
+      - company: "University of Memphis, Department of Computer Science"
+        position: Graduate Teaching Assistant
+        location: Memphis, TN, USA
+        start_date: 2024-01
+        end_date: present
+        highlights:
+          - "Mentored Capstone Software Project and Operating Systems courses of 50–80 students; evaluated projects, and proctored exams."
+
+    Awards:
+      - title: ACL Travel Grant
+        date: 2019
+        awarder: Association for Computational Linguistics
+        summary: Travel grant awarded for NAACL-HLT 2019 publication.
+
+      - title: NSF Travel Support
+        date: 2026-05
+        awarder: National Science Foundation
+        summary: Received NSF travel support to attend the FLEET Industry Technology Forum and Industry Advisory Board Meeting at Dallara U.S. Headquarters in Speedway, Indiana.
 
     Languages:
       - name: Bangla
@@ -299,7 +271,5 @@ cv:
         keywords: "Traveling, trekking, reading"
 
     Certificates: []
-
     Volunteer: []
-
     References: []
