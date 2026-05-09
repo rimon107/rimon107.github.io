@@ -2,7 +2,7 @@
 layout: page
 title: Autonomous R/C Cars Cybersecurity Summer Camp
 description: Hands-on autonomous driving and cybersecurity education using Donkey Car platforms
-img: assets/img/rc_car_preview.png
+img: assets/img/summer_camp.jpeg
 importance: 4
 category: Research
 ---
