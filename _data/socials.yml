@@ -10,5 +10,5 @@ scholar_userid: GItFrJcAAAAJ # your Google Scholar ID
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: /assets/img/linkedin.jpg # can be png, svg, jpg
-  title: Custom Social
+  title: LinkedIn
   url: https://www.linkedin.com/in/md-nahidul-islam-19a4107b/
