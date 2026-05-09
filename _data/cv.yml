@@ -1,189 +1,305 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  name: Md Nahidul Islam
+  email: mislam19@memphis.edu
+  location: Memphis, TN, USA
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: rimon107
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: md-nahidul-islam-19a4107b
+    - network: Google Scholar
+      username: GItFrJcAAAAJ
+    - network: ORCID
+      username: 0009-0004-6808-4674
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: University of Memphis
+        location: Memphis, TN, USA
+        url: https://www.memphis.edu/
+        area: Computer Science
+        studyType: Ph.D.
+        start_date: 2024
+        end_date: present
+        score: "GPA: 3.93/4.00"
+        courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Advisor: Dr. Myounggyu Won"
+          - "M.S. earned en route, May 2026"
+          - "M.S. Thesis: BucketKD: A Safety-Aware Bucket-Based Knowledge Distillation Framework for End-to-End Motion Planning"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Bangladesh University of Engineering and Technology
+        location: Dhaka, Bangladesh
+        url: http://www.buet.ac.bd/
+        area: Computer Science and Engineering
+        studyType: B.Sc.
+        start_date: 2012
+        end_date: 2017
         highlights:
-          - Description 1.
-          - Description 2.
+          - Completed undergraduate degree in Computer Science and Engineering.
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+    Research Experience:
+      - company: University of Memphis
+        position: Graduate Research Assistant
+        location: Memphis, TN, USA
+        start_date: 2024-01
+        end_date: present
+        summary: Researching trustworthy autonomous driving, interactive motion planning, conformal risk certification, counterfactual evaluation, and model compression for safe robotics under the supervision of Prof. Myounggyu Won.
         highlights:
-          - Relativity
-          - Description 2.
+          - Designed BucketKD, a safety-aware bucket-based knowledge-distillation framework for compressing end-to-end motion planners in autonomous driving.
+          - Developed time-to-collision-guided waypoint attention and adaptive planning-state discretization to preserve safety-relevant trajectory behavior during distillation.
+          - Investigating protocol-scoped counterfactual risk certification for interactive autonomous driving, including frozen decision protocols, calibrated upper-risk bounds, abstention-aware selection, and scene-level reliability evaluation.
+          - Built scalable experimental pipelines for autonomous-driving research using PyTorch, CARLA, trajectory datasets, JSONL artifacts, and HPC/GPU infrastructure.
+          - Co-developed an autoencoder-based stealthy-anomaly detector with a windowed variance-aware loss for vehicular and tactical communication networks, published at IEEE MILCOM 2025.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Bangladesh University of Engineering and Technology
+        position: Research Assistant
+        location: Dhaka, Bangladesh
+        start_date: 2018-08
+        end_date: 2020-01
+        summary: Conducted research on Bangla speech recognition, low-resource language modeling, and grapheme-to-phoneme conversion under the supervision of Dr. Muhammad Abdullah Adnan.
         highlights:
-          - Description 1.
-          - Description 2.
+          - Contributed to peer-reviewed publications at ICASSP, LREC, and NAACL.
+          - Built and evaluated sequence-to-sequence and attention-based models for Bangla automatic speech recognition and text/speech processing.
+          - Worked on the Samsung Research Bangladesh-funded Bangla Automated Speech Recognition Engine project.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+    Teaching Experience:
+      - company: University of Memphis, Department of Computer Science
+        position: Graduate Teaching Assistant
+        location: Memphis, TN, USA
+        start_date: 2024-01
+        end_date: present
+        summary: Assisted undergraduate computer science courses at the University of Memphis.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Mentored Capstone Software Project and Operating Systems courses of 50–80 students.
+          - Supported project evaluation and proctored exams.
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+    Industry Experience:
+      - company: Bangladesh Bank, Central Bank of Bangladesh
+        position: Assistant Director, Enterprise Data Warehouse
+        location: Dhaka, Bangladesh
+        start_date: 2020-11
+        end_date: 2023-12
+        summary: Worked on enterprise-scale financial data systems, ETL pipelines, analytics platforms, and internal web applications.
+        highlights:
+          - Designed and maintained ETL pipelines and internal analytics platforms for enterprise-scale regulatory financial data.
+          - Developed containerized web applications and proof-of-concept ML tools using Django, React, Oracle, Docker, and CI/CD workflows.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: Binate Solutions Ltd.
+        position: Software Engineer, AI Solutions Team
+        location: Dhaka, Bangladesh
+        start_date: 2020-02
+        end_date: 2020-10
+        summary: Developed ML-backed software services, REST APIs, SaaS applications, and conversational AI systems.
+        highlights:
+          - Developed REST APIs, ML-backed services, and SaaS web applications using Django, TensorFlow, RASA, and cloud deployment tools.
+          - Built an automated chatbot using RASA for FAQs, questionnaires, project booking, and sales appointment scheduling.
+
+      - company: ACI Ltd.
+        position: Information Analyst, MIS Department
+        location: Dhaka, Bangladesh
+        start_date: 2017-02
+        end_date: 2018-03
+        summary: Built reporting dashboards and applied machine-learning methods to business and operations datasets.
+        highlights:
+          - Developed internal analytics, reporting, sentiment analysis, fraud detection, and enterprise software systems.
+          - Worked with Django, MSSQL, TensorFlow, NLP APIs, and business intelligence tools.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "CRiC: Protocol-Scoped Counterfactual Risk Certification for Interactive Driving"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Md Nahidul Islam
+          - et al.
+        publisher: Submitted to NeurIPS 2026
+        releaseDate: 2026
+        summary: Submitted manuscript on protocol-scoped counterfactual risk certification for interactive autonomous driving.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "BucketKD: A Safety-Aware Bucket-Based Knowledge Distillation Framework for End-to-End Motion Planning"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Md Nahidul Islam
+          - et al.
+        publisher: Submitted to IROS 2026
+        releaseDate: 2026
+        summary: Submitted manuscript on safety-aware bucket-based knowledge distillation for end-to-end autonomous-driving motion planners.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "BucketKD: A Safety-Aware Bucket-Based Knowledge Distillation Framework for End-to-End Motion Planning"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Md Nahidul Islam
+        publisher: M.S. thesis, University of Memphis
+        releaseDate: 2026
+        url: https://digitalcommons.memphis.edu/etd/3931
+        summary: M.S. thesis on compressing end-to-end autonomous-driving planners while preserving safety-relevant behavior.
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: "Detecting Stealthy Anomalies with Autoencoders Using Windowed Variance-Aware Loss Functions"
+        authors:
+          - L. Hwang
+          - Md Nahidul Islam
+          - M. H. Ali
+          - D. Dasgupta
+          - M. Won
+        publisher: IEEE Military Communications Conference (MILCOM)
+        releaseDate: 2025
+        url: https://doi.org/10.1109/MILCOM64451.2025.11310014
+        summary: Autoencoder-based stealthy-anomaly detection using a windowed variance-aware loss function.
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - title: "Bangla Voice Command Recognition in End-to-End System Using Topic Modeling Based Contextual Rescoring"
+        authors:
+          - Nafis Sadeq
+          - Shafayat Ahmed
+          - Sudipta Saha Shubha
+          - Md Nahidul Islam
+          - Muhammad Abdullah Adnan
+        publisher: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+        releaseDate: 2020
+        url: "https://ieeexplore.ieee.org/document/9053970"
+        summary: End-to-end Bangla voice command recognition with topic-modeling-based contextual rescoring.
 
-      - name: English
-        summary: "Fluent"
+      - title: "Preparation of Bangla Speech Corpus from Publicly Available Audio & Text"
+        authors:
+          - Shafayat Ahmed
+          - Nafis Sadeq
+          - Sudipta Saha Shubha
+          - Md Nahidul Islam
+          - Muhammad Abdullah Adnan
+        publisher: International Conference on Language Resources and Evaluation (LREC)
+        releaseDate: 2020
+        url: "https://aclanthology.org/2020.lrec-1.811/"
+        summary: Preparation of Bangla speech corpus resources from publicly available audio and text.
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: "Customizing Grapheme-to-Phoneme System for Non-Trivial Transcription Problems in Bangla Language"
+        authors:
+          - Sudipta Saha Shubha
+          - Nafis Sadeq
+          - Shafayat Ahmed
+          - Md Nahidul Islam
+          - Muhammad Abdullah Adnan
+          - Md. Yasin Ali Khan
+          - Mohammad Zuberul Islam
+        publisher: NAACL-HLT
+        releaseDate: 2019
+        url: "https://aclanthology.org/N19-1322/"
+        summary: Grapheme-to-phoneme modeling for non-trivial Bangla transcription problems. Awarded ACL Travel Grant.
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    Awards:
+      - title: ACL Travel Grant
+        authors:
+          - Association for Computational Linguistics
+        date: 2019
+        awarder: Association for Computational Linguistics
+        summary: Travel grant awarded for NAACL-HLT 2019 publication.
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - title: NSF Travel Support
+        authors:
+          - National Science Foundation
+        date: 2026-05
+        awarder: National Science Foundation
+        summary: Received NSF travel support to attend the FLEET Industry Technology Forum and Industry Advisory Board Meeting at Dallara U.S. Headquarters in Speedway, Indiana.
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: CRiC
+        summary: Protocol-scoped counterfactual risk certification framework for interactive autonomous driving.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Developed a protocol-scoped certification framework that evaluates a frozen autonomous-driving decision protocol rather than only a predictor.
+          - Designed calibrated upper-risk-bound selection and abstention logic for safety-aware candidate choice under uncertainty.
+          - Built streaming-friendly evaluation artifacts and reliability analyses for large-scale scene/candidate rollouts.
+        start_date: 2026
+        end_date: present
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: BucketKD
+        summary: Safety-aware bucket-based knowledge distillation framework for compressing end-to-end autonomous-driving motion planners.
+        highlights:
+          - Developed bucket-based knowledge distillation for end-to-end motion-planner compression.
+          - Designed time-to-collision-guided waypoint attention and adaptive bucket construction.
+          - Evaluated compact student planners in CARLA high-complexity driving scenarios.
+        start_date: 2024-01
+        end_date: 2026-02
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Autonomous R/C Cars Cybersecurity Summer Camp
+        summary: Hands-on autonomous driving and cybersecurity education program using Donkey Car and Raspberry Pi platforms.
+        highlights:
+          - Built an end-to-end self-driving pipeline including data collection, CNN training, and on-vehicle deployment.
+          - Designed demonstrations of safety-critical attack surfaces in connected and autonomous systems.
+          - Taught high-school students Python, machine learning, robotics, and cybersecurity concepts.
+        start_date: 2024
+        end_date: 2024
+
+      - name: Data Collection and Validation Portal
+        summary: Enterprise web platform for regulatory data ingestion, validation, reporting, and analytics.
+        highlights:
+          - Engineered CSV upload, schema validation, role-based access, and reporting workflows.
+          - Built dashboard and analytics features for regulatory data operations.
+          - Used Django, React, Redux, Oracle, and Docker.
+        start_date: 2020
+        end_date: 2024
+
+      - name: Bangla Automated Speech Recognition Engine
+        summary: Samsung Research Bangladesh-funded project on low-resource Bangla speech recognition, voice command recognition, and speech/text resource development.
+        highlights:
+          - Contributed to end-to-end Bangla voice command recognition using contextual rescoring.
+          - Helped prepare Bangla speech corpus resources from publicly available audio and text.
+          - Worked on grapheme-to-phoneme modeling for non-trivial Bangla transcription problems.
+          - Contributed to publications at ICASSP, LREC, and NAACL.
+        start_date: 2018
+        end_date: 2020
+
+      - name: Earlier Software and Machine Learning Projects
+        summary: Selected pre-Ph.D. software, data, and machine-learning systems across enterprise analytics, fintech, NLP, web platforms, and backend services.
+        highlights:
+          - Built systems including automated chatbots, warehouse management, sentiment analysis, fraud detection, web crawling, inventory management, e-commerce, and ETL workflows.
+          - Used technologies including Django, TensorFlow, RASA, React, MSSQL, Oracle, Docker, Scrapy, ASP.NET, C#, Java, and Spring Framework.
+        start_date: 2016
+        end_date: 2020
+
+    Skills:
+      - name: Programming
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: "Python, C++, C, C#, Java, JavaScript, SQL/PL-SQL, R"
+
+      - name: Machine Learning
+        level: Advanced
+        icon: fa-solid fa-brain
+        keywords: "PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers, OpenCV, pandas, NumPy, spaCy, NLTK"
+
+      - name: Autonomous Driving and Robotics
+        level: Advanced
+        icon: fa-solid fa-car
+        keywords: "CARLA, Donkey Car, trajectory forecasting, motion planning, TTC-based safety metrics, Waymo Open Motion Dataset, Argoverse 2"
+
+      - name: Systems and Infrastructure
+        level: Advanced
+        icon: fa-solid fa-server
+        keywords: "Linux, Git, Docker, Kubernetes, HPC/GPU clusters, AWS, DigitalOcean, CI/CD, Ansible"
+
+      - name: Web and Backend
+        level: Advanced
+        icon: fa-solid fa-globe
+        keywords: "Django, FastAPI, React, Redux, Node.js, ASP.NET"
+
+      - name: Databases
+        level: Advanced
+        icon: fa-solid fa-database
+        keywords: "Oracle, PostgreSQL, MySQL, MS SQL Server"
+
+    Languages:
+      - name: Bangla
+        summary: Native speaker
+
+      - name: English
+        summary: Fluent
+
+    Interests:
+      - name: Research
+        icon: fa-solid fa-microscope
+        keywords: "Autonomous driving, trustworthy machine learning, conformal risk certification, counterfactual evaluation, model compression, safe robotics"
+
+      - name: Personal
+        icon: fa-solid fa-person-hiking
+        keywords: "Traveling, trekking, reading"
+
+    Certificates: []
+
+    Volunteer: []
+
+    References: []
