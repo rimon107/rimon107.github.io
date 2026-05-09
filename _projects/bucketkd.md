@@ -4,7 +4,7 @@ title: BucketKD
 description: Safety-aware knowledge distillation for end-to-end motion planning
 img: assets/img/bucketkd_preview.png
 importance: 5
-category: research
+category: Research
 ---
 
 **BucketKD: A Safety-Aware Bucket-Based Knowledge Distillation Framework for End-to-End Motion Planning** is my M.S. thesis project at the University of Memphis.

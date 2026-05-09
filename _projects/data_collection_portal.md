@@ -4,7 +4,7 @@ title: Data Collection and Validation Portal
 description: Enterprise web platform for regulatory data ingestion, validation, and reporting
 img: assets/img/data_portal_preview.png
 importance: 2
-category: software
+category: Professional
 ---
 
 **Data Collection and Validation Portal** is an enterprise web application developed for large-scale financial data collection, validation, and reporting workflows.

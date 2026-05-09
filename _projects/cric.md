@@ -4,7 +4,7 @@ title: CRiC
 description: Protocol-scoped counterfactual risk certification for interactive autonomous driving
 img: assets/img/cric_preview.png
 importance: 6
-category: research
+category: Research
 ---
 
 **CRiC: Counterfactual Risk Certification for Interactive Driving** is my ongoing Ph.D. research project on trustworthy decision-making for interactive autonomous driving.

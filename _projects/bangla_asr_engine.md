@@ -4,7 +4,7 @@ title: Bangla Automated Speech Recognition Engine
 description: End-to-end Bangla speech recognition and voice command system for low-resource language processing
 img: assets/img/bangla_asr_preview.png
 importance: 3
-category: research
+category: Research
 ---
 
 **Bangla Automated Speech Recognition Engine** was a Samsung Research Bangladesh-funded research project on low-resource Bangla speech recognition, voice command understanding, and speech/text resource development.

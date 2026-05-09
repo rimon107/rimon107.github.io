@@ -4,7 +4,7 @@ title: Earlier Software and Machine Learning Projects
 description: Selected software, data, and machine-learning systems built before my Ph.D.
 img: assets/img/software_projects_preview.png
 importance: 1
-category: software
+category: Professional
 ---
 
 Before starting my Ph.D., I worked on a range of software, data, and machine-learning systems across financial technology, enterprise analytics, e-commerce, NLP, and backend services. These projects helped build my foundation in full-stack engineering, data pipelines, applied machine learning, and production-oriented software development.
