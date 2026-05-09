@@ -1,9 +1,9 @@
 ---
 layout: about
 title: About
-permalink: /about
+permalink: /
 subtitle: 
-nav: true
+nav: false
 nav_order: 1
 
 profile:
@@ -12,13 +12,13 @@ profile:
   image_circular: false
   more_info: 
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
   enabled: true
   scrollable: true
-  limit: 5
+  limit: 
 
 latest_posts:
   enabled: false
