@@ -3,8 +3,8 @@ layout: about
 title: About
 permalink: /
 subtitle: 
-nav: true
-nav_order: 1
+nav: false
+
 
 profile:
   align: right
