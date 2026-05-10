@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CRiC
-description: Protocol-scoped counterfactual risk certification for interactive autonomous driving
+description: Protocol scoped counterfactual risk certification for interactive autonomous driving
 img: assets/img/9.jpg
 importance: 6
 category: Research
