@@ -2,7 +2,7 @@
 layout: page
 title: BucketKD
 description: Safety-aware knowledge distillation for end-to-end motion planning
-img: assets/img/bucketkd_preview.png
+img: assets/img/bucketkd.png
 importance: 5
 category: Research
 ---
