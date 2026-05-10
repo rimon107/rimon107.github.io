@@ -2,7 +2,7 @@
 layout: page
 title: Bangla Automated Speech Recognition Engine
 description: End-to-end Bangla speech recognition and voice command system for low-resource language processing
-img: assets/img/bangla_asr_preview.png
+img: assets/img/asr.png
 importance: 3
 category: Research
 ---

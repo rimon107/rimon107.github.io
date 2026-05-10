@@ -2,7 +2,7 @@
 layout: page
 title: Earlier Software and Machine Learning Projects
 description: Selected software, data, and machine-learning systems built before my Ph.D.
-img: assets/img/software_projects_preview.png
+img: assets/img/prev.png
 importance: 1
 category: Professional
 ---

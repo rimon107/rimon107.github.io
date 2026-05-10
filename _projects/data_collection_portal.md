@@ -2,7 +2,7 @@
 layout: page
 title: Data Collection and Validation Portal
 description: Enterprise web platform for regulatory data ingestion, validation, and reporting
-img: assets/img/data_portal_preview.png
+img: assets/img/data_val.png
 importance: 2
 category: Professional
 ---
