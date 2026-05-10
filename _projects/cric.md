@@ -3,7 +3,7 @@ layout: page
 title: CRiC
 description: Protocol-scoped counterfactual risk certification for interactive autonomous driving
 img: assets/img/cric.png
-importance: 1
+importance: 6
 category: Research
 year: 2026
 ---
