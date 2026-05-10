@@ -73,7 +73,7 @@ ninja.data = [{
               window.location.href = "/projects/bucketkd/";
             },},{id: "projects-cric",
           title: 'CRiC',
-          description: "Protocol-scoped counterfactual risk certification for interactive autonomous driving",
+          description: "Protocol scoped counterfactual risk certification for interactive autonomous driving",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cric/";
             },},{id: "projects-data-collection-and-validation-portal",
