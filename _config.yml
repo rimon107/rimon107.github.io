@@ -6,8 +6,7 @@ title: # the website title (if blank, full name will be used instead)
 first_name: Md Nahidul
 middle_name: 
 last_name: Islam
-contact_note: >
-  For research collaboration or internship inquiries, please reach me by email.
+contact_note: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Ph.D. student in Computer Science at the University of Memphis,
   researching trustworthy autonomous driving, motion planning,

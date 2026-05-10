@@ -5,7 +5,7 @@ description: Selected software, data, and machine-learning systems built before 
 img: assets/img/prev.png
 importance: 1
 category: Professional
-year: 2017-2019
+year: 2017-2020
 ---
 
 Before starting my Ph.D., I worked on a range of software, data, and machine-learning systems across financial technology, enterprise analytics, e-commerce, NLP, and backend services. These projects helped build my foundation in full-stack engineering, data pipelines, applied machine learning, and production-oriented software development.
