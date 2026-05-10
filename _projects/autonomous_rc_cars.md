@@ -5,6 +5,7 @@ description: Hands-on autonomous driving and cybersecurity education using Donke
 img: assets/img/rc.png
 importance: 4
 category: Research
+year: 2024, 2025
 ---
 
 **Autonomous R/C Cars Cybersecurity Summer Camp** was a hands-on educational program introducing high-school students to autonomous driving, machine learning, robotics, and cybersecurity.

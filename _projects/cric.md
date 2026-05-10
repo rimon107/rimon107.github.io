@@ -5,6 +5,7 @@ description: Protocol-scoped counterfactual risk certification for interactive a
 img: assets/img/cric.png
 importance: 1
 category: Research
+year: 2026
 ---
 
 **Status:** Submitted to NeurIPS 2026 (under review).
