@@ -5,7 +5,7 @@ description: End-to-end Bangla speech recognition and voice command system for l
 img: assets/img/asr.png
 importance: 3
 category: Research
-year: 2019, 2020
+year: 2019-2020
 ---
 
 **Bangla Automated Speech Recognition Engine** was a Samsung Research Bangladesh-funded research project on low-resource Bangla speech recognition, voice command understanding, and speech/text resource development.
