@@ -53,7 +53,7 @@ ninja.data = [{
           section: "News",},{id: "news-submitted-cric-protocol-scoped-counterfactual-risk-certification-for-interactive-driving-to-neurips-2026",
           title: 'Submitted CRiC: Protocol-Scoped Counterfactual Risk Certification for Interactive Driving to NeurIPS 2026.',
           description: "",
-          section: "News",},{id: "news-attended-the-fleet-industry-technology-forum-at-dallara-u-s-headquarters-in-speedway-indiana-with-nsf-travel-support",
+          section: "News",},{id: "news-attended-the-fleet-industry-technology-forum-at-dallara-u-s-headquarters-in-speedway-indiana-with-nsf-travel-grant",
           title: 'Attended the FLEET Industry Technology Forum at Dallara U.S. Headquarters in Speedway, Indiana,...',
           description: "",
           section: "News",},{id: "projects-autonomous-r-c-cars-cybersecurity-summer-camp",
