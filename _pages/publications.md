@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: publications by categories in reversed chronological order.
+description: Peer-reviewed publications and manuscripts under review in autonomous driving, trustworthy machine learning, and speech processing.
 nav: true
 nav_order: 1
 ---

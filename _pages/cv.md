@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 3
-description: Academic CV.
+description: Curriculum vitae of Md Nahidul Islam — Ph.D. student in Computer Science at the University of Memphis, researching autonomous driving and trustworthy machine learning.
 ---
 
 A PDF version of my CV is available

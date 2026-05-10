@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   researching trustworthy autonomous driving, motion planning,
   and safe machine learning.
 footer_text: >
-  © 2026 Md Nahidul Islam. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: autonomous driving, trustworthy machine learning, motion planning, trajectory forecasting, conformal prediction, counterfactual evaluation, model compression, knowledge distillation, robotics # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)

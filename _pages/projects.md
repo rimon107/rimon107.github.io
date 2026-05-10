@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Selected research and engineering projects across autonomous driving, safety-aware machine learning, and earlier work in speech processing and enterprise systems.
 nav: true
 nav_order: 2
 display_categories: [Research, Professional]
