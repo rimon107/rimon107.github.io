@@ -58,8 +58,8 @@ ninja.data = [{
           description: "Hands-on autonomous driving and cybersecurity education using Donkey Car platforms",
           section: "Projects",handler: () => {
               window.location.href = "/projects/autonomous_rc_cars/";
-            },},{id: "projects-bangla-automated-speech-recognition-engine",
-          title: 'Bangla Automated Speech Recognition Engine',
+            },},{id: "projects-bangla-asr-engine",
+          title: 'Bangla ASR Engine',
           description: "End-to-end Bangla speech recognition and voice command system for low-resource language processing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bangla_asr_engine/";
