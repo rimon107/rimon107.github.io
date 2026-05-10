@@ -11,21 +11,21 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "publications by categories in reversed chronological order.",
+          description: "Peer-reviewed publications and manuscripts under review in autonomous driving, trustworthy machine learning, and speech processing.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of your cool projects.",
+          description: "Selected research and engineering projects across autonomous driving, safety-aware machine learning, and earlier work in speech processing and enterprise systems.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Academic CV.",
+          description: "Curriculum vitae of Md Nahidul Islam — Ph.D. student in Computer Science at the University of Memphis, researching autonomous driving and trustworthy machine learning.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
