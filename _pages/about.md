@@ -12,7 +12,7 @@ profile:
   image_circular: false
   more_info: 
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
@@ -34,6 +34,6 @@ My work sits at the intersection of machine learning and safety-critical decisio
 
 In May 2026, I earned my M.S. en route with the thesis *"BucketKD: A Safety-Aware Bucket-Based Knowledge Distillation Framework for End-to-End Motion Planning,"* which studies how to compress autonomous-driving planners while preserving safety-relevant trajectory behavior. I have manuscripts under review at **NeurIPS 2026** and **IROS 2026**, and recently, our work is accepted at **IEEE MILCOM 2025**.
 
-Before joining the University of Memphis, I worked as an Assistant Director at **Bangladesh Bank**, the Central Bank of Bangladesh, and as a Software Engineer at **Binate Solutions Ltd.** I was also a Research Assistant at **Bangladesh University of Engineering and Technology (BUET)** under **[Dr. Muhammad Abdullah Adnan](https://sites.google.com/site/abdullahadnan)**, where I contributed to publications at **ICASSP**, **NAACL**, and **LREC**.
+Before joining the University of Memphis, I worked as an Assistant Director at Bangladesh Bank, the Central Bank of Bangladesh, and as a Software Engineer at Binate Solutions Ltd. I was also a Research Assistant at **Bangladesh University of Engineering and Technology (BUET)** under **[Dr. Muhammad Abdullah Adnan](https://sites.google.com/site/abdullahadnan)**, where I contributed to publications at **ICASSP**, **NAACL**, and **LREC**.
 
 **I am actively seeking Summer 2027 research internships** in autonomous driving, motion planning, trajectory forecasting, and trustworthy machine learning. If you are recruiting in these areas, I would be glad to hear from you. Please reach me at [mislam19@memphis.edu](mailto:mislam19@memphis.edu).
