@@ -12,7 +12,7 @@ year: 2026
 
 ## Overview
 
-The **Residual-Signal Protocol (RSP)** is an evaluation framework for determining whether learned target--neighbor interaction representations capture information that genuinely helps explain trajectory-forecasting errors beyond simple physical interaction metrics and scenario covariates.
+The Residual-Signal Protocol (RSP) is an evaluation framework for determining whether learned target--neighbor interaction representations capture information that genuinely helps explain trajectory-forecasting errors beyond simple physical interaction metrics and scenario covariates.
 
 Rather than relying only on aggregate forecasting metrics, RSP examines whether a representation provides meaningful explanatory signal after accounting for established baseline factors.
 
@@ -24,7 +24,7 @@ Its explanatory signal is evaluated against random, shuffled, and K-means-based 
 
 ## Evaluation
 
-RSP was evaluated on the **Argoverse 2 Motion Forecasting Dataset** using forecasting outputs from **MTR** and **QCNet**. The evaluation examines:
+RSP was evaluated on the Argoverse 2 Motion Forecasting Dataset using forecasting outputs from **MTR** and **QCNet**. The evaluation examines:
 
 - whether learned representations explain forecasting errors beyond baseline factors;
 - whether the observed signal remains stable under robustness checks;
@@ -34,4 +34,3 @@ RSP was evaluated on the **Argoverse 2 Motion Forecasting Dataset** using foreca
 ## Technologies
 
 PyTorch, Argoverse 2, MTR, QCNet, representation evaluation, statistical analysis, and HPC/GPU computing.
-

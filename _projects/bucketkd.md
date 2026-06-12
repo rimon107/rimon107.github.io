@@ -12,7 +12,7 @@ year: 2025-2026
 
 ## Overview
 
-**BucketKD** is a safety-aware knowledge-distillation framework for compressing end-to-end autonomous-driving motion planners while preserving important trajectory behavior.
+BucketKD is a safety-aware knowledge-distillation framework for compressing end-to-end autonomous-driving motion planners while preserving important trajectory behavior.
 
 Rather than matching only the overall outputs of a larger teacher model, BucketKD organizes planning states into meaningful groups or buckets and encourages the student model to retain safety-relevant behavior across different driving situations.
 

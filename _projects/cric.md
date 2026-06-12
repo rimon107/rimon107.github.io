@@ -12,7 +12,7 @@ year: 2026
 
 ## Overview
 
-**CRiC** is a counterfactual risk-certification framework for evaluating autonomous-driving decisions in interactive environments. It focuses on certifying the behavior of a complete decision protocol rather than evaluating only the accuracy of an individual prediction model.
+CRiC is a counterfactual risk-certification framework for evaluating autonomous-driving decisions in interactive environments. It focuses on certifying the behavior of a complete decision protocol rather than evaluating only the accuracy of an individual prediction model.
 
 The framework estimates the risk associated with candidate driving decisions and determines whether the available evidence is sufficient to make a reliable selection.
 
