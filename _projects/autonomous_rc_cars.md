@@ -5,7 +5,7 @@ description: Hands-on autonomous driving and cybersecurity education using Donke
 img: assets/img/rc.png
 importance: 4
 category: Research
-year: summer - [2024, 2025]
+year: summer - [2024, 2025, 2026]
 ---
 
 **Autonomous R/C Cars Cybersecurity Summer Camp** was a hands-on educational program introducing high-school students to autonomous driving, machine learning, robotics, and cybersecurity.
@@ -14,8 +14,8 @@ The camp used Donkey Car and Raspberry Pi-based robotic platforms to teach stude
 
 ### Highlights
 
-- Co-organized a five-day summer camp on autonomous driving and cybersecurity.
-- Built an end-to-end self-driving pipeline using Donkey Car, Raspberry Pi, Python, TensorFlow, and OpenCV.
+- volunteered in the summer camp on autonomous driving and cybersecurity.
+- Helped k-12 students Building an end-to-end self-driving pipeline using Donkey Car, Raspberry Pi, Python, TensorFlow, and OpenCV.
 - Taught students data collection, CNN training, and deployment on robotic vehicles.
 - Designed demonstrations of safety-critical attack surfaces in connected and autonomous systems.
 - Helped students connect machine learning, robotics, and cybersecurity through hands-on practice.
