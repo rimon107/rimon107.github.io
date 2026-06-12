@@ -41,6 +41,12 @@ ninja.data = [{
           section: "News",},{id: "news-participated-at-the-imagineu-summer-accelerator-an-interdisciplinary-summer-entrepreneurship-internship-program-at-the-university-of-memphis-crews-center-for-entrepreneurship",
           title: 'Participated at the ImagineU Summer Accelerator — an interdisciplinary summer entrepreneurship internship program...',
           description: "",
+          section: "News",},{id: "news-volunteered-as-a-technical-mentor-at-the-five-day-autonomous-r-c-cars-cybersecurity-summer-camp-supporting-k-12-students-in-python-donkey-car-autonomous-driving-and-cybersecurity-activities",
+          title: 'Volunteered as a technical mentor at the five-day Autonomous R/C Cars Cybersecurity Summer...',
+          description: "",
+          section: "News",},{id: "news-volunteered-as-a-technical-mentor-at-the-three-day-autonomous-r-c-cars-cybersecurity-summer-camp-supporting-k-12-students-in-python-donkey-car-autonomous-driving-and-cybersecurity-activities",
+          title: 'Volunteered as a technical mentor at the three-day Autonomous R/C Cars Cybersecurity Summer...',
+          description: "",
           section: "News",},{id: "news-our-paper-on-detecting-stealthy-anomalies-with-autoencoders-was-accepted-at-ieee-milcom-2025",
           title: 'Our paper on detecting stealthy anomalies with autoencoders was accepted at IEEE MILCOM...',
           description: "",
@@ -58,6 +64,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-received-my-m-s-in-computer-science-at-the-university-of-memphis",
           title: 'Received my M.S. in Computer Science at the University of Memphis.',
+          description: "",
+          section: "News",},{id: "news-submitted-what-aggregate-metrics-miss-a-residual-signal-protocol-for-interaction-representations-in-trajectory-forecasting-to-corl-2026",
+          title: 'Submitted _What Aggregate Metrics Miss: A Residual-Signal Protocol for Interaction Representations in Trajectory...',
           description: "",
           section: "News",},{id: "projects-autonomous-r-c-cars-cybersecurity-summer-camp",
           title: 'Autonomous R/C Cars Cybersecurity Summer Camp',
@@ -89,6 +98,11 @@ ninja.data = [{
           description: "Selected software, data, and machine-learning systems built before my Ph.D.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/earlier_software_ml_projects/";
+            },},{id: "projects-residual-signal-protocol-rsp",
+          title: 'Residual-Signal Protocol (RSP)',
+          description: "Evaluating whether learned interaction representations explain trajectory-forecasting errors beyond physical and scenario-based factors",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/rsp/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
