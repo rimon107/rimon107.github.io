@@ -66,7 +66,7 @@ ninja.data = [{
           title: 'Received my M.S. in Computer Science at the University of Memphis.',
           description: "",
           section: "News",},{id: "news-submitted-what-aggregate-metrics-miss-a-residual-signal-protocol-for-interaction-representations-in-trajectory-forecasting-to-corl-2026",
-          title: 'Submitted _What Aggregate Metrics Miss: A Residual-Signal Protocol for Interaction Representations in Trajectory...',
+          title: 'Submitted What Aggregate Metrics Miss: A Residual-Signal Protocol for Interaction Representations in Trajectory...',
           description: "",
           section: "News",},{id: "projects-autonomous-r-c-cars-cybersecurity-summer-camp",
           title: 'Autonomous R/C Cars Cybersecurity Summer Camp',
