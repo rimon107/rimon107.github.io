@@ -4,8 +4,8 @@ title: Residual-Signal Protocol (RSP)
 description: Evaluating whether learned interaction representations explain trajectory-forecasting errors beyond physical and scenario-based factors
 img: assets/img/8.jpg
 importance: 7
-category: research
-related_publications: true
+category: Research
+year: 2026
 ---
 
 **Status:** Submitted to CoRL 2026 (under review).
