@@ -74,7 +74,7 @@ ninja.data = [{
           section: "News",},{id: "news-submitted-bucketkd-a-safety-aware-bucket-based-knowledge-distillation-framework-for-end-to-end-motion-planning-to-aaai-2027",
           title: 'Submitted BucketKD: A Safety-Aware Bucket-Based Knowledge Distillation Framework for End-to-End Motion Planning to...',
           description: "",
-          section: "News",},{id: "news-our-paper-lidarbridge-range-dependent-lidar-noise-modeling-and-prototype-alignment-for-simulation-to-real-3d-object-detection-was-accepted-at-ieee-ccnc-2027-to-be-held-in-las-vegas-nevada-usa",
+          section: "News",},{id: "news-our-paper-lidarbridge-range-dependent-lidar-noise-modeling-and-prototype-alignment-for-simulation-to-real-3d-object-detection-is-accepted-at-ieee-ccnc-2027",
           title: 'Our paper, “LiDARBridge: Range-Dependent LiDAR Noise Modeling and Prototype Alignment for Simulation-to-Real 3D...',
           description: "",
           section: "News",},{id: "news-submitted-trace-transferable-route-search-and-travel-time-estimation-on-unseen-road-networks-to-the-web-conference-www-2027",
